@@ -6,4 +6,3 @@ function mostrarOla() {
 var mostrar = document.getElementById("mostrar");
 mostrar.addEventListener("click", mostrarOla);
 
-Math.
